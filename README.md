@@ -38,11 +38,5 @@ Our project gracefully handles errors in both the emotion detection function and
 ## Conclusion
 In summary, this project offers a unique exploration into emotion detection. We encourage you to explore sentiment analysis in your own projects and share your experiences.
 
-## Next Steps
-Looking to enhance or modify the project? Check out our suggestions for further improvements. Additionally, find resources for delving deeper into Flask and emotion detection.
-
-## Acknowledgments
-Special thanks to the contributors and external libraries that played a vital role in the development of this project.
-
 ## Final Thoughts
 As we wrap up, we invite you to share your thoughts, experiment with the project, and reach out with any questions or feedback. Happy coding!
